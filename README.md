@@ -5,4 +5,4 @@
 
 Raspberry Pi references, instructions, tutorials, and general information.
 
-[Link to Test](github.com/aracnid/rpi/test.md)
+[Link to Test](test.md)
