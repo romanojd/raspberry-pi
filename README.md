@@ -4,3 +4,5 @@
 
 
 Raspberry Pi references, instructions, tutorials, and general information.
+
+[Link to Test]{test.md}
