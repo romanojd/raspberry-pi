@@ -5,4 +5,4 @@
 
 Raspberry Pi references, instructions, tutorials, and general information.
 
-[Link to Test](test.md)
+- [Pi Slice 01:  Connecting to the Internet](pi-slice-01.md)
