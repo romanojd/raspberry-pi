@@ -1,9 +1,12 @@
 # Build and Program Your Own Computer with a Raspberry Pi
 
+## Class Description
+Students born after 2000 are familiar with mobile phones, iPads, GPS, digital photos, streaming music and video, yet fewer and fewer kids are acquiring the understanding and skills to invent the next generation of technology.  This class aims to tackle that.  Developed with STEM in mind (Science, Technology Engineering, and Mathematics), the Raspberry Pi is a credit card-sized computer specifically designed for learning about computing and electronics concepts.  Students will learn about computers (from the inside out), while designing animations, building and playing an original game, and wiring their own circuits. All supplies are included in the class fee, including a Raspberry Pi computer, which students can take home at the conclusion of class!
+
 ## Class Objectives
 The Raspberry Pi is a credit-card-sized computer developed specifically for teaching basic computing and electronics concepts.
-Each student will learn:
-- how to setup and use a Raspberry Pi
+Each student will:
+- learn how to setup and use a Raspberry Pi
 - learn how to control a computer using programming languages and tools
 - design and create their own computer project
 - learn many fundamental computing and electronics concepts
