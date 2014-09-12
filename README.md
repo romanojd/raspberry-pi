@@ -5,3 +5,5 @@
 Raspberry Pi references, instructions, tutorials, and general information.
 
 - [Pi Slice 01:  Connecting to the Internet](pi-slice-01.md)
+
+I will periodically add more instructions and tutorials to this site.
