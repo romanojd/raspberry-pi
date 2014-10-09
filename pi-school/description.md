@@ -32,3 +32,6 @@ The class is structured around six 1-hour lessons.  Each lesson is focused on a 
 Alternatively, I am teaching this same class through the Reston Community Center at Hunter's Woods.  The next session will begin on February 17 at 5:00 pm.  Look for the class in the Winter Program Guide.  They charge $100 for Reston-residents.  A summer camp will also be offered.
 
 A more in-depth version of the class is also available.  The class covers the same six lessons, but meets for 2 hours instead of one.  The extra hour allows us to cover some more advanced topics and gives the students more time to explore and work on their creations.  The cost of this class is $200.
+
+## Contact
+If you are interested or have questions, send an email to rpi@one7tech.com.
