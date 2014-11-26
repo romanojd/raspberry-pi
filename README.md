@@ -4,9 +4,9 @@
 
 Raspberry Pi references, instructions, tutorials, and general information.
 
-The first six slices are hands-on activities that I use in my Raspberry Pi School
+The first six are hands-on activities that I use in my Raspberry Pi School.
 
-### Raspberry Pi School Slices
+### Raspberry Pi School Activities
 - [Activity 1:  Using the Linux Command Line Interface (CLI)](https://drive.google.com/open?id=1-trzg2u2DkueaQIxToQdjTUUTy8KOmEVksIgrxOMTsM&authuser=0)
 - [Activity 2:  Making Computer Designs with Turtle Graphics](https://drive.google.com/open?id=1Prk5o83P0_jpLxVPuT9d3EHHPjhex3KQUWzR5p9mct8&authuser=0)
 - [Activity 3:  Making Computer Games with Scratch](https://drive.google.com/open?id=1CXnA6OuMMG4uqFFtZMq17FezSOwcQATmTLpvoMEBAj8&authuser=0)
