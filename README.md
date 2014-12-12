@@ -14,7 +14,17 @@ The first six are hands-on activities that I use in my Raspberry Pi School.
 - [Activity 5:  Program a Minecraft World with Python](https://drive.google.com/open?id=1ZTvjcSfWlevrHJg0AFCpTMnDIt233xSSsvtOvy-0E6o&authuser=0)
 - [Activity 6:  Build Your Own Electric Circuits](https://drive.google.com/open?id=1UEurwEtHOoRtzulQmRvztXA2l7x079MhR6lhZJpqrmk&authuser=0)
 
+### Raspberry Pi Robotics
+- Robot Chassis
+- Motor
+- Touch Sensors
+- Line-Following Sensors
+- Ultrasonic Sensors
+- Light Sensors
+
 ### Others
-- [Pi Slice 7:  Connecting to the Internet](pi-slice/pi-slice-0007.md)
+- [Pi Slice 1:  Connecting to the Internet](pi-slice/pi-slice-0001-internet.md)
+- [Pi Slice 2:  Remote Access with SSH](pi-slice/pi-slice-0002-remote-access.md)
+- [Pi Slice 3:  Battery Power](pi-slice/pi-slice-0003-battery-power.md)
 
 I will periodically add more instructions and tutorials to this site.
