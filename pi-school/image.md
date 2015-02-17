@@ -1,7 +1,8 @@
-# Create your own image
+Create your own image
 =======================
 
 Here are the steps to create the image.
+
 1. Begin by booting up the Raspberry Pi with a new Raspbian image.
 2. Upon initial boot, it will enter "Raspberry Pi Software Configuration Tool (raspi-config)"
 3. Select #4, "Internationalisation Options" and press the Enter key
