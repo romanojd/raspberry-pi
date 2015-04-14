@@ -6,6 +6,8 @@ Raspberry Pi references, instructions, tutorials, and general information.
 
 The first six are hands-on activities that I use in my Raspberry Pi School.
 
+Also, check out these [other published resources](pi-school/resources.md).
+
 ### Raspberry Pi School Activities
 - [Activity 1:  Using the Linux Command Line Interface (CLI)](https://drive.google.com/open?id=1-trzg2u2DkueaQIxToQdjTUUTy8KOmEVksIgrxOMTsM&authuser=0)
 - [Activity 2:  Making Computer Designs with Turtle Graphics](https://drive.google.com/open?id=1Prk5o83P0_jpLxVPuT9d3EHHPjhex3KQUWzR5p9mct8&authuser=0)
@@ -24,7 +26,5 @@ The first six are hands-on activities that I use in my Raspberry Pi School.
 
 ### Others
 - [Pi Slice 1:  Connecting to the Internet](pi-slice/pi-slice-0001-internet.md)
-- [Pi Slice 2:  Remote Access with SSH](pi-slice/pi-slice-0002-remote-access.md)
-- [Pi Slice 3:  Battery Power](pi-slice/pi-slice-0003-battery-power.md)
 
 I will periodically add more instructions and tutorials to this site.
