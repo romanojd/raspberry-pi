@@ -12,7 +12,7 @@ You may not have a wired connection available to you at the location where you s
 
 - Begin with the Raspberry Pi turned off.
 - Insert the wireless network adapter into one of the Raspberry Pi's USB ports.
-- Turn of the Raspberry Pi and begin XWindows
+- Turn on the Raspberry Pi and begin XWindows (`startx`)
 - From the GUI, open the "Wifi Config" tool by selecting "Menu" -> "Preferences" -> "WiFi Configuration"
 - Click on the "Scan" button to open the "Scan results" window and click the "Scan" button to find the available wireless networks.
 - Double-click on the network you wish to connect to.  The window will open up showing you the connection options.
