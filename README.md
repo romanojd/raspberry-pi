@@ -16,7 +16,7 @@ Also, check out these [other published resources](pi-school/resources.md).
 - [Activity 5:  Program a Minecraft World with Python](https://drive.google.com/open?id=1ZTvjcSfWlevrHJg0AFCpTMnDIt233xSSsvtOvy-0E6o&authuser=0)
 - [Activity 6:  Build Your Own Electric Circuits](https://drive.google.com/open?id=1UEurwEtHOoRtzulQmRvztXA2l7x079MhR6lhZJpqrmk&authuser=0)
 
-### Others
+### Pi Slices
 - [Pi Slice 1:  Connecting to the Internet](pi-slice/pi-slice-0001-internet.md)
 
 I will periodically add more instructions and tutorials to this site.
