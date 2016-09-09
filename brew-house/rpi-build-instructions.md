@@ -48,7 +48,7 @@ $ wget -qO - http://bintray.com/user/downloadSubjectPublicKey?username=bintray |
 $ echo "deb http://dl.bintray.com/kusti8/chromium-rpi jessie main" | sudo tee -a /etc/apt/sources.list
 $ sudo apt-get update
 $ sudo apt-get -y install chromium-browser
-$ sudo apt-get -y install ttf-mscorefonts-installer x11-xserver-utils unclutter
+$ sudo apt-get -y install ttf-mscorefonts-installer unclutter
 ```
 
 5. Setup Chromium to auto start
@@ -69,6 +69,3 @@ $ sudo apt-get -y install apache2 php5 mysql-client mysql-server php5-mysql phpm
 
 - mysql root password: SNgNNx7CVK3f
 - phpmyadmin password: cuybYAn1WVDP
-
-$ sudo apt-get -y install chromium-browser
-$ sudo apt-get -y install ttf-mscorefonts-installer x11-xserver-utils unclutter
