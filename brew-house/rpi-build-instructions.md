@@ -29,6 +29,9 @@
   ```
 
 5. Fix LXDE error
+
+  (Note: this will only remove the error from desktop :0)
+  
   Edit the file ```/etc/xdg/autostart/lxpolkit.desktop```
   Unhide the policy kit: ```Hidden=false```
   Reboot
