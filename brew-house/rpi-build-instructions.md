@@ -7,9 +7,13 @@
 ```
 # curl -L https://install.pivpn.io | bash
 ```
-(connect to 96.255.28.200, public ip)
 
 $ sudo pivpn add
+
+(connect to 96.255.28.200, public ip)
+OpenVPN.exe as adminstrator
+
+4. Install VNC
 
 
 4. Install Chromium
