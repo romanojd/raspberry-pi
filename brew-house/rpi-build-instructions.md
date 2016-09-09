@@ -15,6 +15,12 @@ OpenVPN.exe as adminstrator
 
 4. Install VNC
 
+```
+$ sudo apt-get install tightvncserver
+$ tightvncserver
+```
+
+
 
 4. Install Chromium
 5. Install LAMP Stack
