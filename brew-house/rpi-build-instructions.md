@@ -1,22 +1,20 @@
 # Instructions for Building a Brew House Image
 
 1. update
-```
-$ sudo apt-get update
-$ sudo apt-get upgrade
-```
-
+  ```
+  $ sudo apt-get update
+  $ sudo apt-get upgrade
+  ```
+  
 2. Setup a static IP address
 3. Setup a VPN server
+  ```
+  # curl -L https://install.pivpn.io | bash
+  ```
 
-```
-# curl -L https://install.pivpn.io | bash
-```
-
-$ sudo pivpn add
-
-(connect to 96.255.28.200, public ip)
-OpenVPN.exe as adminstrator
+  $ sudo pivpn add
+  (connect to 96.255.28.200, public ip)
+  OpenVPN.exe as adminstrator
 
 4. Install VNC
 
@@ -32,10 +30,13 @@ OpenVPN.exe as adminstrator
 
 5. Fix LXDE error
   Edit the file ```/etc/xdg/autostart/lxpolkit.desktop```
-  Add ```LXDE;``` to the line ```NotShowIn```
-
-- 
-
+  Unhide the policy kit: ```Hidden=false```
+  Reboot
+  Open the Desktop Session Settings dialog box
+  ```
+  $ lxsession-edit
+  ```
+  Uncheck the option ```LXPolKit```.
 
 4. Install Chromium
 
