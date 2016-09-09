@@ -34,5 +34,10 @@ sudo apt-get update
 sudo apt-get install chromium-browser -y
 ```
 
+5. Setup Chromium to auto start
+
+Add the following line to the end of the file ```~/.config/lxsession/LXDE-pi/autostart```.
+
+```@chromium-browser --noerrdialogs --disable-session-crashed-bubble --disable-infobars --kiosk http://www.website.com```
 
 5. Install LAMP Stack
