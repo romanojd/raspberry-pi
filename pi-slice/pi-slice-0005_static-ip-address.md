@@ -1,4 +1,4 @@
-# Pi Slice 0005:  Setting up a static IP address
+# Pi Slice 0005:  Setting a Static IP Address
 
 Update the DHCP configuration file.
 
