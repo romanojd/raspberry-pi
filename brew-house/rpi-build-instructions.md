@@ -1,5 +1,19 @@
 # Instructions for Building a Brew House Image
 
+1. Change the user password
+  ```
+  $ sudo passwd
+  ```
+  
+2. Modify configuration settings
+  The following parameters can be changed from the Raspberry Pi Configuration dialog box.
+    - password
+    - hostname
+    - locale
+    - timezone
+    - keyboard
+    - wi-fi country code
+  
 1. update
   ```
   $ sudo apt-get update
@@ -12,7 +26,10 @@
   # curl -L https://install.pivpn.io | bash
   ```
 
+  ```
   $ sudo pivpn add
+  ```
+  
   (connect to 96.255.28.200, public ip)
   OpenVPN.exe as adminstrator
 
