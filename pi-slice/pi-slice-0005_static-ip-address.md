@@ -10,7 +10,7 @@ Add the following lines to the end of the file.
 
 ```
 interface eth0
-static ip_address=192.168.1.16
+static ip_address=192.168.1.16/24
 static routers=192.168.1.1
 static domain_name_servers=192.168.1.1
 ```
