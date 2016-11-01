@@ -6,6 +6,8 @@ Raspberry Pi references, instructions, tutorials, and general information.
 
 The first six are hands-on activities that I use in my Raspberry Pi School.
 
+If you have any questions, you may send me a message at `raspberry.pi.school@gmail.com`.
+
 Also, check out these [other published resources](pi-school/resources.md).
 
 ### Raspberry Pi School Activities
