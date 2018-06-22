@@ -34,4 +34,4 @@ Alternatively, I am teaching this same class through the Reston Community Center
 A more in-depth version of the class is also available.  The class covers the same six lessons, but meets for 2 hours instead of one.  The extra hour allows us to cover some more advanced topics and gives the students more time to explore and work on their creations.  The cost of this class is $200.
 
 ## Contact
-If you are interested or have questions, send an email to rpi@one7tech.com.
+If you are interested or have questions, send an email to raspberry.pi.school@gmail.com.
